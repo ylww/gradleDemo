@@ -1,0 +1,5 @@
+dependencies {
+      compile project(':common')
+      compile project(':api')
+      compile 'log4j:log4j:1.2.17'
+}
